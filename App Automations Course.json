@@ -1,0 +1,50 @@
+
+SHEETS
+{"qInfo":{"qId":"c834ffa4-5dcd-4ad1-b5a3-5d213a86b057","qType":"sheet"},"qMeta":{"title":"Cover sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"c834ffa4-5dcd-4ad1-b5a3-5d213a86b057","approved":false,"published":true,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2023-12-08T09:44:01.654Z","modifiedDate":"2024-04-24T09:20:16.228Z","publishTime":"2024-04-24T09:20:16.228Z","privileges":["read","publish"]},"qData":[]}
+{"qInfo":{"qId":"jbrmUNk","qType":"sheet"},"qMeta":{"title":"Regions","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"jbrmUNk","approved":false,"published":true,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2024-04-22T15:28:31.000Z","modifiedDate":"2024-04-22T15:31:30.539Z","publishTime":"2024-04-22T15:31:30.539Z","privileges":["read","publish"]},"qData":[]}
+{"qInfo":{"qId":"16ffddaf-f2bc-42eb-bc3f-6fd3a8eb6644","qType":"sheet"},"qMeta":{"title":"Raw Data","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"16ffddaf-f2bc-42eb-bc3f-6fd3a8eb6644","approved":false,"published":true,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2023-12-08T09:44:01.661Z","modifiedDate":"2024-04-22T12:43:49.578Z","publishTime":"2024-04-22T12:43:49.578Z","privileges":["read","publish"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"wBfwjMt","type":"map","col":0,"row":0,"colspan":36,"rowspan":16,"bounds":{"y":0,"x":0,"width":100,"height":88.88888888888889}}
+{"name":"fXySYe","type":"table","col":0,"row":0,"colspan":18,"rowspan":9,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"name":"mtPEq","type":"barchart","col":18,"row":0,"colspan":18,"rowspan":9,"bounds":{"y":0,"x":50,"width":50,"height":50}}
+{"name":"ANncx","type":"table","col":0,"row":0,"colspan":21,"rowspan":9,"bounds":{"y":0,"x":0,"width":58.333333333333336,"height":50}}
+{"name":"VGREqP","type":"table","col":0,"row":9,"colspan":21,"rowspan":9,"bounds":{"y":50,"x":0,"width":58.333333333333336,"height":50}}
+{"name":"TpvRJh","type":"barchart","col":21,"row":0,"colspan":15,"rowspan":9,"bounds":{"y":0,"x":58.333333333333336,"width":41.66666666666667,"height":50}}
+{"name":"JjZC","type":"linechart","col":21,"row":9,"colspan":15,"rowspan":9,"bounds":{"y":50,"x":58.333333333333336,"width":41.66666666666667,"height":50}}
+
+DIMENSIONS
+{"qInfo":{"qId":"4e2ec9bf-80b0-4a5c-8080-612ba2a0e865","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"4e2ec9bf-80b0-4a5c-8080-612ba2a0e865","approved":false,"published":false,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2024-04-22T12:43:40.440Z","modifiedDate":"2024-04-24T09:05:42.925Z","encrypted":true,"privileges":["read","update","delete","publish"],"title":"Dim3","description":"Dimension 3","tags":["dim"]},"qData":[]}
+{"qInfo":{"qId":"b8ec9d82-30e6-421e-96a4-99865a3b43d0","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"b8ec9d82-30e6-421e-96a4-99865a3b43d0","approved":false,"published":false,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2024-04-22T12:43:35.218Z","modifiedDate":"2024-04-24T09:05:27.680Z","encrypted":true,"privileges":["read","update","delete","publish"],"title":"Dim2","description":"Dimension 2","tags":["dim"]},"qData":[]}
+{"qInfo":{"qId":"UbYaKjQ","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"UbYaKjQ","approved":false,"published":false,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2024-04-22T12:43:35.217Z","modifiedDate":"2024-04-24T09:05:17.450Z","encrypted":true,"privileges":["read","update","delete","publish"],"title":"Dim1","description":"Dimension 1","tags":["dim"]},"qData":[]}
+
+MEASURES
+{"qInfo":{"qId":"CAmYPAj","qType":"measure"},"qMeta":{"_resourcetype":"app.object","_objecttype":"measure","id":"CAmYPAj","approved":false,"published":false,"owner":"auth0|a608bb02103a524cc7f24b704abe5bbab5037b5ab9a6d4edb9d5723ba5178f3e","ownerId":"656efb540affc2ddb151e233","createdDate":"2024-04-22T12:42:54.962Z","modifiedDate":"2024-04-24T09:06:38.274Z","encrypted":true,"privileges":["read","update","delete","publish"],"title":"Sum Exp3","description":"Sum of Exp3","tags":["exp"]},"qData":[]}
+
+VARIABLES
+{"qName":"x","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"daf08c9d-0c3d-467f-8c00-4683ceb04560","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vTest","qDescription":"Test variable for export\/import","qDefinition":"'ATEST'","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ab47c302-d282-4e95-91cd-9574e8b1496b","qType":"variable"},"qData":[]}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":16,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":5,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":5,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":4,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":9,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Alpha","qCardinal":26,"qTags":["$ascii","$text"],"qSrcTables":["Characters"]}
+{"qName":"ID","qCardinal":26,"qTags":["$key","$numeric","$integer"],"qSrcTables":["Characters","ASCII","Transactions","People"]}
+{"qName":"AsciiAlpha","qCardinal":191,"qTags":[],"qSrcTables":["ASCII"]}
+{"qName":"AsciiNum","qCardinal":191,"qTags":["$numeric","$integer"],"qSrcTables":["ASCII"]}
+{"qName":"TransLineID","qCardinal":11,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"TransID","qCardinal":1000,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"Dim1","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
+{"qName":"Dim2","qCardinal":6,"qTags":["$key","$ascii","$text"],"qSrcTables":["Transactions","Regions"]}
+{"qName":"Dim3","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Transactions"]}
+{"qName":"Expression1","qCardinal":467,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"Expression2","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["Transactions"]}
+{"qName":"Expression3","qCardinal":1933,"qTags":["$numeric"],"qSrcTables":["Transactions"]}
+{"qName":"Name","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["People"]}
+{"qName":"Email","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["People"]}
+{"qName":"Comment","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["People"]}
+{"qName":"Region","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Regions"]}
